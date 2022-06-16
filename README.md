@@ -11,6 +11,7 @@ The official app can also be found on the [Play Store](https://play.google.com/s
 
 Other notable contributors:
 
+ - Slammin
  - [TimPetricola](https://github.com/TimPetricola) added best score storage
  - [chrisprice](https://github.com/chrisprice) added custom code for swipe handling on mobile
  - [marcingajda](https://github.com/marcingajda) made swipes work on Windows Phone
